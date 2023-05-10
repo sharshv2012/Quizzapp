@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="name">NAME</string>
+    <string name="enter">ENTER</string>
+    <string name="please_enter_your_name">Please Enter Your Name</string>
+    <string name="flaguizz">FLAGUIZZ</string>
+    <string name="e_g_harsh">e.g. HARSH</string>
+    <string name="welcom">welcom</string>
+    <string name="welcome">WELCOME</string>
+    <string name="start">start</string>
+    <string name="pleaseEnterUrName">PLEASE ENTER YOUR NAME</string>
+</resources>
